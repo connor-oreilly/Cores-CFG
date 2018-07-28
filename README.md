@@ -1,6 +1,6 @@
 # .cores-cfg ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-My main annoyance with other configs was how you would have to remove a good portion of the config if you wanted to integrate it with your existing configs, or at the very least would have to spend half an hour getting everyone to work how it once did. No longer. More documentation and support on the website.
+My main annoyance with other configs was how you would have to remove a good portion of the config if you wanted to integrate it with your existing configs, or at the very least would have to spend half an hour getting everyone to work how it once did. No longer.
 
 ## Installation
 
@@ -28,13 +28,19 @@ If you wish to install it normally, you can just download the [main release](htt
 
 5. Remove the launch option `-dxlevel 90` as it is no longer needed, and slows down alt-tabbing.
 
-## Optional Modules
+## Optional CFG Modules
 
 ```python
 badcpu.cfg
 badgpu.cfg
 mouse-tweaks.cfg
 no-tutorial.cfg
+```
+
+## Optional Custom Files
+
+```python
+cores-nokillstreaksound.vpk
 ```
 
 ## License
