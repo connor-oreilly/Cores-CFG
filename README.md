@@ -5,7 +5,7 @@ My main annoyance with other configs was how you would have to remove a good por
 ## Installation
 
 ### Supported Operating Systems
-All Operating Systems will work with the config, however only Windows 7, 8, 8.1, and 10 are fully supported, tested and feature fledged.
+All Operating Systems will work with the config, however only Windows 7, 8, 8.1, and 10 are fully supported, tested and feature fledged. Support outside of these systems is limited to the config, and I am not responsible for any damages caused by the end user.
 
 ### How to Install
 
@@ -41,6 +41,9 @@ no-tutorial.cfg
 
 ```python
 cores-nokillstreaksound.vpk
+cores-nodominationsounds.vpk
+cores-noannouncervoices.vpk
+cores-noapplausesounds.vpk
 ```
 
 ## License
