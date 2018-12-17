@@ -1,6 +1,6 @@
 # .cores-cfg ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-My main annoyance with other configs was how you would have to remove a good portion of the config if you wanted to integrate it with your existing configs, or at the very least would have to spend half an hour getting everyone to work how it once did. No longer.
+My main annoyance with other configs was how you would have to remove a good portion of the config if you wanted to integrate it with your existing configs, or at the very least would have to spend half an hour getting everything to work how it once did.
 
 ## Installation
 
