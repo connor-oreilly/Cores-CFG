@@ -49,4 +49,4 @@ cores-noapplausesounds.vpk
 ```
 
 ## License
-core @ [MIT](https://choosealicense.com/licenses/mit/)
+core @ [GPL3.0](https://github.com/coretf/cores-cfg/blob/master/LICENSE)
