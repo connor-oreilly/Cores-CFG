@@ -1,11 +1,11 @@
 # .cores-cfg ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-My main annoyance with other configs was how you would have to remove a good portion of the config if you wanted to integrate it with your existing configs, or at the very least would have to spend half an hour getting everything to work how it once did.
+My main annoyance with other configs was how you would have to remove a good portion of the config if you wanted to integrate it with your existing configs, or at the very least would have to spend half an hour getting everything to work how it once did. With this config, you can find the modularity found in other configs, with the simplicity found in older configs.
 
 ## Installation
 
 ### Supported Operating Systems
-All Operating Systems will work with the config, however only Windows 7, 8, 8.1, and 10 are fully supported, tested and feature fledged. Support outside of these systems is limited to the config, and I am not responsible for any damages caused by the end user.
+All Operating Systems will work with the config, however only Windows 7 and 10 are fully supported, tested and feature fledged. Support outside of these systems is limited to the config, and I am not responsible for any damages caused by or to the end user. This means there is no warranty, no return, none of that.
 
 ### How to Install
 
@@ -31,8 +31,10 @@ If you wish to install it normally, you can just download the [main release](htt
 ## Optional CFG Modules
 
 ```python
+aliases.cfg
 badcpu.cfg
 badgpu.cfg
+custom.cfg
 mouse-tweaks.cfg
 no-tutorial.cfg
 ```
@@ -47,4 +49,4 @@ cores-noapplausesounds.vpk
 ```
 
 ## License
-Core @ [MIT](https://choosealicense.com/licenses/mit/)
+core @ [MIT](https://choosealicense.com/licenses/mit/)
